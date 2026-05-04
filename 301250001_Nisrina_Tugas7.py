@@ -1,3 +1,9 @@
+# Nama Program : Integrasi mini sitem CLI sederhana
+# Nama Pembuat : Nisrina Dwi Hasna
+# NIM : 301250001
+# Tanggal Pembuatan : 04 Mei 2026
+# Nama File : 301250001_Nisrina_Tugas7.py
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
